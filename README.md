@@ -5,9 +5,9 @@
 I am a highly motivated, dedicated, and adaptable college student who loves the field of cybersecurity. I am a lifelong learner who wants to work everyday to actively defend organizations and people alike against cyber crime and protect vital assets.  
 
 # Project Overview 
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| None            | none                                  |             none|  none           |
+|     Project                            |                 Skills                |     Tools       |      Link       |
+| -------------------------------------- | ------------------------------------- | --------------- | --------------- |
+| Conducting a Security Audit            | Assess controls and compliance        |             none|  <a href="https://docs.google.com/document/d/1uGGR5lKd3qNECH7_JP0jK33TnVsApqHliucuSNfHcN8/edit?usp=sharing">Find Document Here <a>|
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
