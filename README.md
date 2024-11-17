@@ -1,4 +1,4 @@
-## Devon Villareal Porfolio
+## Devon Villareal Portfolio
 
 # Portfolio
 
