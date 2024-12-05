@@ -8,7 +8,7 @@ I am a highly motivated, dedicated, and adaptable college student who loves the 
 |     Project                            |                 Skills                |     Tools       |      Link       |
 | -------------------------------------- | ------------------------------------- | --------------- | --------------- |
 | Conducting a Security Audit            | Assess controls and compliance        |             none|  <a href="https://docs.google.com/document/d/1uGGR5lKd3qNECH7_JP0jK33TnVsApqHliucuSNfHcN8/edit?usp=sharing">Find Document Here <a>|
-| Using the NIST Cybersecurity Framework to respond to a security incident       | none                                      |  <a href="[https://docs.google.com/document/d/1uGGR5lKd3qNECH7_JP0jK33TnVsApqHliucuSNfHcN8/edit?usp=sharing](https://docs.google.com/document/d/1jeAhExzRcRRXFUwp6s4x5HFnIBkonN-iLo87A04npZk/edit?usp=sharing)">Find Document Here <a>                |                 |
+| Using the NIST Cybersecurity Framework to respond to a security incident       | Utilize the NIST Cybersecurity Framework                                    |  none              |   <a href="https://docs.google.com/document/d/1uGGR5lKd3qNECH7_JP0jK33TnVsApqHliucuSNfHcN8/edit?usp=sharing](https://docs.google.com/document/d/1jeAhExzRcRRXFUwp6s4x5HFnIBkonN-iLo87A04npZk/edit?usp=sharing">Find Document Here <a>                |
 |                                        |                                       |                 |                 |
 
 
