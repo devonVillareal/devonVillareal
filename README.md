@@ -14,7 +14,6 @@ I am a highly motivated, dedicated, and adaptable college student who loves the 
 |  Analyze Vulnerabilities for a Small Business  | Evaluate risks, create remidiation plans|     none         |    <a href="https://docs.google.com/document/d/1hu3_LEDiGfAX2ZekGb4Pz4ZKOoA1Av-OXIAOzajXpTU/edit?usp=sharing"> Find Document Here <a>            |
 |  Incident Handler's Journal  | Documenting findings|     none         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing"> Find Document Here <a>            |
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
