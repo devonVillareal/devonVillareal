@@ -12,7 +12,7 @@ I am a highly motivated, dedicated, and adaptable college student who loves the 
 |  Managing File Permissions in Linux    | Utilize a CLI to manage authorization on files and directories|         Linux/Bash       |    <a href="https://docs.google.com/document/d/1T0oNdq8IHmuM8IvRRmC9RODrwyr-HzbOUi3gRFuG2ss/edit?usp=sharing"> Find Document Here <a>            |
 |  Applying Filters to SQL Quiries    | Create SQL Quiries and utilize the AND, NOT, LIKE and OR operators|         SQL     |    <a href="https://docs.google.com/document/d/11n6kOg-M-KWyeN0qA4huUtWvKvDNXBcjL1732e1oSJk/edit?usp=sharing"> Find Document Here <a>            |
 |  Analyze Vulnerabilities for a Small Business  | Evaluate risks, create remidiation plans|     none         |    <a href="https://docs.google.com/document/d/1hu3_LEDiGfAX2ZekGb4Pz4ZKOoA1Av-OXIAOzajXpTU/edit?usp=sharing"> Find Document Here <a>            |
-|  Incident Handler's Journal  | Documenting findings|     none         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing"> Find Document Here <a>            |
+|  Incident Handler's Journal (WIP)  | Documenting findings|     none         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing"> Find Document Here <a>            |
 # Certifications 
 
 |     Certification     |               Completed?               |     Link       |
