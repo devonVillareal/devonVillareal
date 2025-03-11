@@ -13,7 +13,7 @@ I am a highly motivated, dedicated, and adaptable college student who loves the 
 |  Applying Filters to SQL Quiries    | Create SQL Quiries and utilize the AND, NOT, LIKE and OR operators|         SQL     |    <a href="https://docs.google.com/document/d/11n6kOg-M-KWyeN0qA4huUtWvKvDNXBcjL1732e1oSJk/edit?usp=sharing"> Find Document Here <a>            |
 |  Analyze Vulnerabilities for a Small Business  | Evaluate risks, create remidiation plans|     none         |    <a href="https://docs.google.com/document/d/1hu3_LEDiGfAX2ZekGb4Pz4ZKOoA1Av-OXIAOzajXpTU/edit?usp=sharing"> Find Document Here <a>            |
 |  Incident Handler's Journal (WIP)  | Documenting findings|     none         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing"> Find Document Here <a>            |
-|  Update a file through a Python algorithm | Opening files in python, for and if statements, utilizing sequences |     Python         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing](https://docs.google.com/document/d/1t_foS5IyDQSnGfiUENpd_p6kC3d2bqpiKHTYrm0Npd8/edit?usp=sharing"> Find Document Here <a>            |
+|  Update a file through a Python algorithm | Opening files in python, for and if statements, utilizing sequences |     Python         |    <a href="https://docs.google.com/document/d/1t_foS5IyDQSnGfiUENpd_p6kC3d2bqpiKHTYrm0Npd8/edit?usp=sharing"> Find Document Here <a>            |
 # Certifications 
 
 |     Certification     |               Completed?               |     Link       |
