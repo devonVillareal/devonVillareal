@@ -14,6 +14,7 @@ I am a highly motivated, dedicated, and adaptable college student who loves the 
 |  Analyze Vulnerabilities for a Small Business  | Evaluate risks, create remidiation plans|     none         |    <a href="https://docs.google.com/document/d/1hu3_LEDiGfAX2ZekGb4Pz4ZKOoA1Av-OXIAOzajXpTU/edit?usp=sharing"> Find Document Here <a>            |
 |  Incident Handler's Journal  | Documenting findings|     none         |    <a href="https://docs.google.com/document/d/1uJAzVw6mQpkT1If-4avlAXxd9D5v5V6EPemmxHelEac/edit?usp=sharing"> Find Document Here <a>            |
 |  Update a file through a Python algorithm | Opening files in python, for and if statements, utilizing sequences |     Python         |    <a href="https://docs.google.com/document/d/1t_foS5IyDQSnGfiUENpd_p6kC3d2bqpiKHTYrm0Npd8/edit?usp=sharing"> Find Document Here <a>            |
+|  Real-Time Audio Analysis and Visualization (**IN PROGRESS**) | Utilizing Python Libraries, Object oriented programming |     Python         |    <a href="https://docs.google.com/document/d/1i6RfUHzpr6pZ1A32pGBU081lG9wF3APpsvcq_3hXcQs/edit?usp=sharing"> Find Document Here <a>            |
 
 
 # Certifications 
